@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/common/pico_divider",
+		"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_divider"
+	}
+}

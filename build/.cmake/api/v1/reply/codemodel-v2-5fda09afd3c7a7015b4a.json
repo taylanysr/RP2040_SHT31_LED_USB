@@ -1,0 +1,1053 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						5
+					]
+				},
+				{
+					"build" : "pico-sdk",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						70
+					],
+					"jsonFile" : "directory-pico-sdk-Debug-954e4349767db427ddd0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk"
+				},
+				{
+					"build" : "pico-sdk/tools",
+					"jsonFile" : "directory-pico-sdk.tools-Debug-5c61efb3f489823f3e5f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/tools"
+				},
+				{
+					"build" : "pico-sdk/src",
+					"childIndexes" : 
+					[
+						4,
+						16,
+						67
+					],
+					"jsonFile" : "directory-pico-sdk.src-Debug-46915fe0b50c2ae895ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src"
+				},
+				{
+					"build" : "pico-sdk/src/common",
+					"childIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"jsonFile" : "directory-pico-sdk.src.common-Debug-bf1dc276abc8fb37279f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common"
+				},
+				{
+					"build" : "pico-sdk/src/common/boot_picoboot",
+					"jsonFile" : "directory-pico-sdk.src.common.boot_picoboot-Debug-e9123af14294a570c27b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/boot_picoboot"
+				},
+				{
+					"build" : "pico-sdk/src/common/boot_uf2",
+					"jsonFile" : "directory-pico-sdk.src.common.boot_uf2-Debug-72d89674c756ca6bd1ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/boot_uf2"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_base",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_base-Debug-a896439bf26337c3a9e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_base"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_usb_reset_interface",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_usb_reset_interface-Debug-2e882c0873e898536ba6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_usb_reset_interface"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_bit_ops",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_bit_ops-Debug-eefd20b1ab16b8e3e4e7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_bit_ops"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_binary_info",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_binary_info-Debug-e8f35297c7fc03703318.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_binary_info"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_divider",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_divider-Debug-6c6d7e35c02971066444.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_divider"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_sync",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_sync-Debug-dc03082e318e0595b82e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_sync"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_time",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_time-Debug-3a1339eb9f7dc9eb2072.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_time"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_util",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_util-Debug-23988379821b5b25b708.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_util"
+				},
+				{
+					"build" : "pico-sdk/src/common/pico_stdlib",
+					"jsonFile" : "directory-pico-sdk.src.common.pico_stdlib-Debug-ba0c9d3797553a63f5e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/common/pico_stdlib"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common",
+					"childIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						66
+					],
+					"jsonFile" : "directory-pico-sdk.src.rp2_common-Debug-f212cb2e755546e95eff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_base",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_base-Debug-87b9f22e15c959a04599.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_base"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_claim",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_claim-Debug-6bb77eafb09f8e77c8e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_claim"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_adc",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_adc-Debug-4b3186dc397f8c9e6448.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_adc"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_clocks",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_clocks-Debug-5316b780de279c29da43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_clocks"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_dma",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_dma-Debug-ccb9db40c6f374129373.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_dma"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_divider",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_divider-Debug-cb36b354d02e3c7a1467.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_divider"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_exception",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_exception-Debug-eda54da2d91ae38d8b6c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_exception"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_flash",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_flash-Debug-4972dacd39cde215cd98.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_flash"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_gpio",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_gpio-Debug-54b8b22dc5ec99046da9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_gpio"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_i2c",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_i2c-Debug-06db10318ef443e1ba64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_i2c"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_interp",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_interp-Debug-47bb1c4783e398f50dc8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_interp"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_irq",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_irq-Debug-a895fc1fc0f1f386ca1b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_irq"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_pio",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_pio-Debug-4c4e6f5985f9b74c2810.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_pio"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_pll",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_pll-Debug-13591d88777d4c682e3c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_pll"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_pwm",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_pwm-Debug-0d909ca03e663a9262fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_pwm"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_resets",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_resets-Debug-dfb7347e7671fe6c1a3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_resets"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_rtc",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_rtc-Debug-ea7c0c6f8da5b48c07ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_rtc"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_spi",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_spi-Debug-5a21432f88269298e333.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_spi"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_sync",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_sync-Debug-11c5263594bd922898e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_sync"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_timer",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_timer-Debug-2bd806987415646ff6f4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_timer"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_uart",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_uart-Debug-8f75a0801269c161abb3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_uart"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_vreg",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_vreg-Debug-5528f7e79e5bcb48d7fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_vreg"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_watchdog",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_watchdog-Debug-5664c3351ffe19a3c1a7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_watchdog"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/hardware_xosc",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_xosc-Debug-d1b63e0e7dcc7afcdee6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/hardware_xosc"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_bootrom",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_bootrom-Debug-b44fccc2a94e34ae3e15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_bootrom"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_platform",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_platform-Debug-d428a7c16b82cadf2b44.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_platform"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/boot_stage2",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.boot_stage2-Debug-c1af05868108d0be9743.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/boot_stage2",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_bootsel_via_double_reset",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_bootsel_via_double_reset-Debug-0e6ff9fc164447f9d75a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_bootsel_via_double_reset"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_multicore",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_multicore-Debug-4a0ea4337da764d79ad2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_multicore"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_unique_id",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_unique_id-Debug-3fc3008b2f071cb3b4ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_unique_id"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_bit_ops",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_bit_ops-Debug-23f71eb8cbc7333a66b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_bit_ops"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_divider",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_divider-Debug-06802be4e28139f5e3e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_divider"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_double",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_double-Debug-16fe662df7e767549633.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_double"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_int64_ops",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_int64_ops-Debug-9996213c16a00d83d861.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_int64_ops"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_float",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_float-Debug-fcf742b7bf73f7e22d06.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_float"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_mem_ops",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_mem_ops-Debug-33537b29a726a258e6c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_mem_ops"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_malloc",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_malloc-Debug-7b504e7afb89232a7c20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_malloc"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_printf",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_printf-Debug-f02787494ce77d725787.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_printf"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_stdio",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdio-Debug-f8c47048b142ee43f14b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_stdio"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_stdio_semihosting",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdio_semihosting-Debug-60610b41f7c0234f6179.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_stdio_semihosting"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_stdio_uart",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdio_uart-Debug-5c8fde7c5c62360a11d6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_stdio_uart"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/cmsis",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.cmsis-Debug-61bc9a40b888eb4db56c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/cmsis"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/tinyusb",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.tinyusb-Debug-f66224eeeebcc4eda6ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/tinyusb"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_stdio_usb",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdio_usb-Debug-9cf1147688225f1d786e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_stdio_usb"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_stdlib",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdlib-Debug-0d5e7c67c2cabf62b369.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_stdlib"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_cxx_options",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_cxx_options-Debug-558140e3681195d4b59d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_cxx_options"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_standard_link",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_standard_link-Debug-e29bf4819743e09a9cf2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_standard_link"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_fix",
+					"childIndexes" : 
+					[
+						65
+					],
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_fix-Debug-4264aa03f4ea4c5c98cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_fix"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_fix.rp2040_usb_device_enumeration-Debug-5a48d47a8504fba02d60.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 64,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration"
+				},
+				{
+					"build" : "pico-sdk/src/rp2_common/pico_runtime",
+					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_runtime-Debug-26ca8ab2b78e8c199efb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2_common/pico_runtime"
+				},
+				{
+					"build" : "pico-sdk/src/rp2040",
+					"childIndexes" : 
+					[
+						68,
+						69
+					],
+					"jsonFile" : "directory-pico-sdk.src.rp2040-Debug-ff8391a58eb673c89419.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2040"
+				},
+				{
+					"build" : "pico-sdk/src/rp2040/hardware_regs",
+					"jsonFile" : "directory-pico-sdk.src.rp2040.hardware_regs-Debug-8c469e600fe579c67e51.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 67,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2040/hardware_regs"
+				},
+				{
+					"build" : "pico-sdk/src/rp2040/hardware_structs",
+					"jsonFile" : "directory-pico-sdk.src.rp2040.hardware_structs-Debug-14df0012f6f3b19c2d6a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 67,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/src/rp2040/hardware_structs"
+				},
+				{
+					"build" : "pico-sdk/docs",
+					"jsonFile" : "directory-pico-sdk.docs-Debug-625c6b39782af8cea627.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "/home/baydev/Desktop/xx/pico/pico-sdk/docs"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "my_task",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70
+					],
+					"name" : "pico_sdk",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ELF2UF2Build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ELF2UF2Build-Debug-0862598426716f88edc4.json",
+					"name" : "ELF2UF2Build",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FreeRTOS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FreeRTOS-Debug-e6b368df409f4869f521.json",
+					"name" : "FreeRTOS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 43,
+					"id" : "bs2_default::@bc554eaed616d198a22d",
+					"jsonFile" : "target-bs2_default-Debug-cbca91b58145b8a6b66d.json",
+					"name" : "bs2_default",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 43,
+					"id" : "bs2_default_bin::@bc554eaed616d198a22d",
+					"jsonFile" : "target-bs2_default_bin-Debug-0b2c36098710421ab3df.json",
+					"name" : "bs2_default_bin",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 43,
+					"id" : "bs2_default_padded_checksummed_asm::@bc554eaed616d198a22d",
+					"jsonFile" : "target-bs2_default_padded_checksummed_asm-Debug-5a0a55fa9a650521b0f6.json",
+					"name" : "bs2_default_padded_checksummed_asm",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_task-Debug-1a58e7f230748fd29ce5.json",
+					"name" : "my_task",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baydev/Desktop/my_work/tiny2040_task/build",
+		"source" : "/home/baydev/Desktop/my_work/tiny2040_task"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
